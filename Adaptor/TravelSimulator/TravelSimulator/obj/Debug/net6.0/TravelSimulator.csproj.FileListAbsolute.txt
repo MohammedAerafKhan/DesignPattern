@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\obj\Debug\net6.0\TravelSimulator.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\obj\Debug\net6.0\TravelSimulator.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\obj\Debug\net6.0\TravelSimulator.AssemblyInfo.cs
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\obj\Debug\net6.0\TravelSimulator.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\bin\Debug\net6.0\TravelSimulator.exe
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\bin\Debug\net6.0\TravelSimulator.deps.json
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\bin\Debug\net6.0\TravelSimulator.runtimeconfig.json
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\bin\Debug\net6.0\TravelSimulator.dll
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\bin\Debug\net6.0\TravelSimulator.pdb
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\obj\Debug\net6.0\TravelSimulator.dll
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\obj\Debug\net6.0\refint\TravelSimulator.dll
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\obj\Debug\net6.0\TravelSimulator.pdb
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\obj\Debug\net6.0\TravelSimulator.genruntimeconfig.cache
+\\Mac\Home\Desktop\Seneca\5.fall2023\SED505DesignPatterns\TravelSimulator\TravelSimulator\obj\Debug\net6.0\ref\TravelSimulator.dll
